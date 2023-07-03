@@ -23,6 +23,7 @@ def display_menu():
  # Main program loop
  
 if __name__ == "__main__": 
+   display_menu()
 
     while True:
         display_menu()
